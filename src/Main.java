@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
-
+//--------------------------------------------------------------------------------------------------
 public class Main {
     private static final String url = "jdbc:mysql://localhost:3306/collegedb";
     private static final String user = "root";
