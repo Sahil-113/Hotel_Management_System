@@ -7,6 +7,7 @@ import java.sql.PreparedStatement;
 import java.util.Scanner;
 
 public class Main {
+    // Sahil Singh
     private static final String url = "jdbc:mysql://localhost:3306/collegedb";
     private static final String user = "root";
     private static final String password = "12345678";
